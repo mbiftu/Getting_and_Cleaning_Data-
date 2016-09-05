@@ -1,4 +1,4 @@
-#Getting and Cleaning Data
+#Getting and Cleaning Data Course Projecct
 
 This assignment utilizes a dataset from wearable computing technology which recorded a group of volunteers performing activities while wearing a smartphone. For this data science course project, I have gathered and prepared the wearable technology data into a tidy form that can be used for analysis. This report will review my steps and what I’ve gathered in this process. 
 
